@@ -265,9 +265,9 @@ https://accounts.spotify.com/authorize?client_id={CLIENT_ID}&response_type=code&
 
 You can keep your fork, and thus your private PythonAnywhere instance up to date, with the upstream using GitHub's <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork">Sync Fork button</a>! After doing so, log back into your PythonAnywhere account and open a new console to pull in the changes.
 
-<a href="https://{PA_USERNAME}.pythonanywhere.com/link">
+<a href="https://yahyar.pythonanywhere.com/link">
   <img
-    src="https://{PA_USERNAME}.pythonanywhere.com"
+    src="https://yahyar.pythonanywhere.com"
     alt="Current Spotify Song"
   />
 </a>
